@@ -22,7 +22,7 @@ export default function Manifesto() {
                 >
                     <Lightbulb className="card-icon" size={32} color="#8A2BE2" />
                     <h2>Challenge Your Reality</h2>
-                    <p>We exist to push boundaries. We don't settle for the standard. Every project, every collaboration, every line of code is a challenge to turn, "what if" into "what is."</p>
+                    <p>We exist to push boundaries. We don&apos;t settle for the standard. Every project, every collaboration, every line of code is a challenge to turn, "what if" into &quot;what is.&quot;</p>
                     <a href="#" className="card-link">JOIN THE COLLECTIVE &rarr;</a>
                 </motion.div>
 
